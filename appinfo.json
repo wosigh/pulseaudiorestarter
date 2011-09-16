@@ -1,0 +1,17 @@
+{
+	"title": "PulseAudio Restarter",
+	"id": "com.foxtailsoftware.pulseaudiorestarter",
+	"version": "1.0.0",
+	"release_date": "15-September-2011",
+	"vendor": "Foxtail Software",
+	"vendor_email":	"foxfirex@foxtailsoftware.com",
+	"vendor_url": "http://www.foxtailsoftware.com",
+	"type": "web",
+	"plug-ins" : true,
+	"noWindow" : true,
+	"noDeprecatedStyles" : true,
+	"main": "index.html",
+	"icon": "icon.png",
+	"keywords": ["pulseaudio"],
+	"uiRevision": 2
+}

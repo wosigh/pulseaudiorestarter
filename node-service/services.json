@@ -1,0 +1,15 @@
+{
+    "id": "com.foxtailsoftware.pulseaudiorestarter.node",
+    "description": "PulseAudio Restarter Service",
+    "services": [ {
+    "name": "com.foxtailsoftware.pulseaudiorestarter.node",
+    "description": "PulseAudio Restarter Service",
+    "privatebus": true,
+    "commands": [  { 
+            "name": "restart", 
+            "assistant": "RestartAssistant",
+	    "public": true
+             }
+           ] 
+        }]
+}

@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.foxtailsoftware.pulseaudiorestarter.node
+Exec=/var/usr/sbin/com.foxtailsoftware.pulseaudiorestarter.node

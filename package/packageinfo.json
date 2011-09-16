@@ -1,0 +1,12 @@
+{
+  "id": "com.foxtailsoftware.pulseaudiorestarter",
+  "package_format_version": 2,
+  "loc_name": "PulseAudio Restarter",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "miniicon": "icon.png",
+  "vendor": "Foxtail Software",
+  "vendorurl": "www.foxtailsoftware.com",
+  "app": "com.foxtailsoftware.pulseaudiorestarter",
+  "services": ["com.foxtailsoftware.pulseaudiorestarter.node"]
+}

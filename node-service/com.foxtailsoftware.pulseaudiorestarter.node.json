@@ -1,0 +1,14 @@
+{
+  "role": {
+     "exeName":"js",
+     "type": "privileged",
+     "allowedNames": ["com.foxtailsoftware.pulseaudiorestarter.node"]
+  },
+  "permissions": [
+    {
+      "service":"com.foxtailsoftware.pulseaudiorestarter.node",
+      "inbound":["*"],
+      "outbound":["*"]
+    }
+  ]
+}
